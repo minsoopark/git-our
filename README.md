@@ -7,6 +7,18 @@
 우리들의 살아있는 여행 가이드, git-our.
 
 
+# 목차
+
+1. [아시아](https://github.com/minsoopark/git-our/blob/master/asia)
+  - [대한민국](https://github.com/minsoopark/git-our/blob/master/asia/korea)
+    - [순천](https://github.com/minsoopark/git-our/blob/master/asia/korea/suncheon.md)
+  - [일본](https://github.com/minsoopark/git-our/blob/master/asia/japan)
+    - [후쿠오카](https://github.com/minsoopark/git-our/blob/master/asia/japan/fukuoka.md)
+2. [북아메리카](https://github.com/minsoopark/git-our/blob/master/north-america)
+  - [미국](https://github.com/minsoopark/git-our/blob/master/north-america/usa)
+    - [샌디에고](https://github.com/minsoopark/git-our/blob/master/north-america/usa/sandiego.md)
+
+
 # 기여하기
 
 여행의 기억을 더듬어 부담없이 작성해주세요.
