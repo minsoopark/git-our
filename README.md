@@ -18,6 +18,8 @@
 2. [북아메리카](https://github.com/minsoopark/git-our/blob/master/north-america)
   - [미국](https://github.com/minsoopark/git-our/blob/master/north-america/usa)
     - [샌디에고](https://github.com/minsoopark/git-our/blob/master/north-america/usa/sandiego.md)
+  - [캐나다](https://github.com/minsoopark/git-our/blob/master/north-america/canada)
+    - [퀘벡](https://github.com/minsoopark/git-our/blob/master/north-america/canada/quebec.md)
 
 
 # 기여하기
