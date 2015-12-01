@@ -1,4 +1,5 @@
-# git-our
+<img src="https://github.com/minsoopark/git-our/blob/master/gitour.png" width="100">
+---
 
 식상하고 천편일률적인 여행 가이드 북에 질린 당신!
 
